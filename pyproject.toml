@@ -1,0 +1,10 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+description = "Villain Trading Cards"
+name = "root"
+version = "0.0.0"
+[tool.poetry.dependencies]
+flask = "==1.1.1"
+flask-sqlalchemy = "==2.4.1"
+python = "^3.8"
